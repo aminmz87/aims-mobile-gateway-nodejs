@@ -1,0 +1,13 @@
+{
+  "domain_url": "www.aminmztwo.com",
+  "mysql_connection": {
+    "client": "mysql",
+    "connection": {
+      "host" : "127.0.0.1",
+      "user" : "root",
+      "password" : "p455W0rd",
+      "database" : "myasset_umk"
+    },
+    "pool": { "min": "0", "max": "7" }
+  }
+}
