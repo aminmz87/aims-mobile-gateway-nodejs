@@ -7,7 +7,7 @@
     "start": "nodemon --exec babel-node server/app.js"
   },
   "keywords": [],
-  "author": "AMiNMZ <aminmz87@gmail.com>",
+  "author": "XCube.IO",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.18.0",
